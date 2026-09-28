@@ -202,19 +202,6 @@ NODE_ENV=development
 
 ---
 
-## Screen Recording
-
-Record with Expo: on web, capture browser; on device, screen-record Expo Go while: 1) pull-to-refresh, 2) countdown ticking, 3) tap Register → see Registered + spots 19→18, 4) copy referral, 5) switch tabs, 6) try double register (idempotent).
-
----
-
-## Git
-
-```bash
-git init
-git add .
-git commit -m "feat: Feedants competition details — full-stack (RN + Express + Mongo)"
-```
 
 ---
 
